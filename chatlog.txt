@@ -1,0 +1,3 @@
+Client: Hello
+Client: How are you?
+Client: Encrypted Chat App Test
